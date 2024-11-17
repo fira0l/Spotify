@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spotify Playlists by Firaol Anbessa</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Spotify Playlists by Firaol Anbessa</h1>
+  </header>
+
+  <div class="playlist-container">
+    {% for playlist in playlists %}
+    <div class="playlist-card">
+      <img src="{{ playlist.images[0].url }}" alt="{{ playlist.name }}" class="playlist-img">
+      <h3>{{ playlist.name }}</h3>
+      <a href="https://open.spotify.com/playlist/{{ playlist.id }}" target="_blank">
+        <button>Open Playlist</button>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <footer>
+    <p>&copy; 2024 Spotify Playlists by Firaol Anbessa</p>
+  </footer>
+
+</body>
+</html>
