@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://github.com/fira0l/Spotify/blob/main/image.png" alt="Random Image" width="400px">
+<img src="https://github.com/fira0l/Spotify/blob/main/image.png" alt="Random Image" width="700px" height="500">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
