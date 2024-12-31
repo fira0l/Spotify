@@ -33,3 +33,6 @@
 - **Dynamic Playlist Display**: Showcases a curated playlist of Billboard hits.
 - **Track Previews**: Users can play a short preview of tracks directly from the site.
 - **User Interaction**: Features like liking and commenting on playlists enhance user engagement.
+
+<h2 id="howtouse"> 📌 How to View </h2> 
+Check it out live: <a href="https://fira0l.github.io">fira0l.github.io</a> 
