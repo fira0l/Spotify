@@ -28,7 +28,7 @@
 - **Frontend**: HTML, CSS, JavaScript for a responsive and stylish UI.
 - **Hosting**: GitHub Pages for seamless deployment.
 
-<h2 id="started>🌟 Features</h2>
+<h2 id="started">🌟 Features</h2>
 
 - **Dynamic Playlist Display**: Showcases a curated playlist of Billboard hits.
 - **Track Previews**: Users can play a short preview of tracks directly from the site.
