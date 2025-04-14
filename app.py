@@ -82,4 +82,4 @@ def home():
 
 
 if __name__ == '__main__':
-    app.run(debug=True,host="localhost",port=5000)
+    app.run(debug=True,host="54.191.253.12",port=5000)
